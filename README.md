@@ -14,9 +14,15 @@ Give us your feedback by raising it under the Issues tab.
 - Install [Azure App Service Extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice) on Visual Studio Code.
 - Install [Git](https://git-scm.com/downloads).
 
-### Running our first application
+### Running your first application
 1. Create a folder in your Desktop called app-service-demo
 2. On Visual Studio Code, click File, Open Folder, and choose the folder your created in step 1.
-3. On Visual Studio Code, click Terminakl at the top and choose new Terminal.
+3. On Visual Studio Code, click Terminal at the top and choose new Terminal.
 4. Paste `git clone https://github.com/AbdullahAbuHassann/App-Service-Workshop.git` on the terminal and click enter.
+5. Paste `cd App-Service-Workshop` and click enter.
+6. Paste `npm install` and click enter
+7. Paste `node app.js` and click enter. You should see a message saying: "Server is listening on Port 3000".
+8. Paste localhost:3000 on your favorite browser and click enter. You should have your first running application!
+
+
 
