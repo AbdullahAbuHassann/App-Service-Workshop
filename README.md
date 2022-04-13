@@ -18,5 +18,5 @@ Give us your feedback by raising it under the Issues tab.
 1. Create a folder in your Desktop called app-service-demo
 2. On Visual Studio Code, click File, Open Folder, and choose the folder your created in step 1.
 3. On Visual Studio Code, click Terminakl at the top and choose new Terminal.
-4. Paste `git clone https://github.com/AbdullahAbuHassann/App-Service-Workshop.git`on the terminal and click enter.
+4. Paste `git clone https://github.com/AbdullahAbuHassann/App-Service-Workshop.git` on the terminal and click enter.
 
